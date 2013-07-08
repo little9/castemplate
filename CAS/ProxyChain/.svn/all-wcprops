@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/repos/eac/!svn/ver/218/trunk/castest/CAS/ProxyChain
+END
+Trusted.php
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/repos/eac/!svn/ver/218/trunk/castest/CAS/ProxyChain/Trusted.php
+END
+Interface.php
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/repos/eac/!svn/ver/218/trunk/castest/CAS/ProxyChain/Interface.php
+END
+AllowedList.php
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/repos/eac/!svn/ver/218/trunk/castest/CAS/ProxyChain/AllowedList.php
+END
+Any.php
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/repos/eac/!svn/ver/218/trunk/castest/CAS/ProxyChain/Any.php
+END

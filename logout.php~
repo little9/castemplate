@@ -1,0 +1,13 @@
+<?php
+include_once(“CAS.php”);
+phpCAS::client(CAS_VERSION_2_0,’caneid.miami.edu’,443,’/cas/’);
+// SSL!
+phpCAS::setCasServerCACert(“cacert.pem”);
+
+if (phpCAS::isAuthenticated())
+  {
+    phpCAS::logout();
+  }else{
+  header(‘location: ./index.php’);
+}
+?>

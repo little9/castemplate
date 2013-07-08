@@ -1,0 +1,95 @@
+K 25
+svn:wc:ra_dav:version-url
+V 41
+/repos/eac/!svn/ver/218/trunk/castest/CAS
+END
+OutOfSequenceBeforeProxyException.php
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/repos/eac/!svn/ver/218/trunk/castest/CAS/OutOfSequenceBeforeProxyException.php
+END
+ProxiedService.php
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/repos/eac/!svn/ver/218/trunk/castest/CAS/ProxiedService.php
+END
+GracefullTerminationException.php
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/repos/eac/!svn/ver/218/trunk/castest/CAS/GracefullTerminationException.php
+END
+Exception.php
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/repos/eac/!svn/ver/218/trunk/castest/CAS/Exception.php
+END
+AuthenticationException.php
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/repos/eac/!svn/ver/218/trunk/castest/CAS/AuthenticationException.php
+END
+ProxyTicketException.php
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/repos/eac/!svn/ver/218/trunk/castest/CAS/ProxyTicketException.php
+END
+OutOfSequenceException.php
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/repos/eac/!svn/ver/218/trunk/castest/CAS/OutOfSequenceException.php
+END
+CookieJar.php
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/repos/eac/!svn/ver/218/trunk/castest/CAS/CookieJar.php
+END
+InvalidArgumentException.php
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/repos/eac/!svn/ver/218/trunk/castest/CAS/InvalidArgumentException.php
+END
+Autoload.php
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/repos/eac/!svn/ver/218/trunk/castest/CAS/Autoload.php
+END
+Client.php
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/repos/eac/!svn/ver/218/trunk/castest/CAS/Client.php
+END
+OutOfSequenceBeforeAuthenticationCallException.php
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/repos/eac/!svn/ver/218/trunk/castest/CAS/OutOfSequenceBeforeAuthenticationCallException.php
+END
+ProxyChain.php
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/repos/eac/!svn/ver/218/trunk/castest/CAS/ProxyChain.php
+END
+TypeMismatchException.php
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/repos/eac/!svn/ver/218/trunk/castest/CAS/TypeMismatchException.php
+END
+OutOfSequenceBeforeClientException.php
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/repos/eac/!svn/ver/218/trunk/castest/CAS/OutOfSequenceBeforeClientException.php
+END

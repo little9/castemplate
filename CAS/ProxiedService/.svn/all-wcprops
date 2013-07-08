@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/repos/eac/!svn/ver/218/trunk/castest/CAS/ProxiedService
+END
+Exception.php
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/repos/eac/!svn/ver/218/trunk/castest/CAS/ProxiedService/Exception.php
+END
+Http.php
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/repos/eac/!svn/ver/218/trunk/castest/CAS/ProxiedService/Http.php
+END
+Abstract.php
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/repos/eac/!svn/ver/218/trunk/castest/CAS/ProxiedService/Abstract.php
+END
+Testable.php
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/repos/eac/!svn/ver/218/trunk/castest/CAS/ProxiedService/Testable.php
+END
+Imap.php
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/repos/eac/!svn/ver/218/trunk/castest/CAS/ProxiedService/Imap.php
+END

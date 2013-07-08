@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/repos/eac/!svn/ver/218/trunk/castest/CAS/PGTStorage
+END
+File.php
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/repos/eac/!svn/ver/218/trunk/castest/CAS/PGTStorage/File.php
+END
+Db.php
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/repos/eac/!svn/ver/218/trunk/castest/CAS/PGTStorage/Db.php
+END
+AbstractStorage.php
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/repos/eac/!svn/ver/218/trunk/castest/CAS/PGTStorage/AbstractStorage.php
+END
